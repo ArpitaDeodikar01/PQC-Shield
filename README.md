@@ -1,4 +1,5 @@
 # Cronus Bridge — PQC-Shield
+<img width="1916" height="1034" alt="image" src="https://github.com/user-attachments/assets/f3192e40-8e98-467f-b94f-45f9a533dc49" />
 
 > Post-Quantum Cryptography Security Gateway for IoT Firmware Updates
 
